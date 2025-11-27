@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 确保背景色铺满 */
+body, html, #root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}

@@ -1,4 +1,4 @@
-🦅 Avian Translator (鸟语解码器)
+🦅 Bird Translator (鸟语解码器)
 
 Bio-Acoustic Analysis System | 生物声学分析系统
 
